@@ -8,6 +8,16 @@
       "description": "best pen for you.",
       "state": "",
       "img": "https://cdn-icons-png.flaticon.com/128/227/227104.png"
+      },
+    {
+        "id": "e507",
+      "title": "cycle",
+      "price": "6999",
+      "rating": "4",
+      "description": "this is best cycle",
+      "state": "",
+      "img": "https://cdn-icons-png.flaticon.com/128/983/983534.png"
+    
       }
   ],
   "cart" :[
@@ -19,6 +29,15 @@
       "description": "best pen for you.",
       "state": "",
       "img": "https://cdn-icons-png.flaticon.com/128/227/227104.png"
-   }
+   },
+    {
+      "id": "e507",
+      "title": "cycle",
+      "price": "6999",
+      "rating": "4",
+      "description": "this is best cycle",
+      "state": "",
+      "img": "https://cdn-icons-png.flaticon.com/128/983/983534.png"
+    }
      ]
 }
