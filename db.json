@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "hello"
+    }
+  ],
+  "items": [],
+  "cart": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
