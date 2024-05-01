@@ -7,5 +7,7 @@
   ],
    "items": [],
   "cart": [],
-  
+  "profile" :{
+    name :"Ram"
+  }
 }
